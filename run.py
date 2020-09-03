@@ -1,5 +1,6 @@
 #!/usr/bin/env python -B
 # coding=utf-8
+from typing import List
 import sys
 
 code = sys.argv[1]
